@@ -1,0 +1,228 @@
+Uri: https://medprosvita.online/lp/pantomax/a/
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\index.htm
+Content Type: text/html
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/3801.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\3801.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,700|Roboto+Condensed:700&subset=cyrillic
+File Name: c:\Downloaded Web Sites\medprosvita.online\css.css
+Content Type: text/css
+
+Uri: https://medprosvita.online/lp/pantomax/a/css/style.css
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\css\style.css
+Content Type: text/css
+
+Uri: https://medprosvita.online/lp/pantomax/a/css/stylenew.css
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\css\stylenew.css
+Content Type: text/css
+
+Uri: https://medprosvita.online/privacy.php
+File Name: c:\Downloaded Web Sites\medprosvita.online\privacy.html
+Content Type: text/html
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/product-1.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\product-1.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/product-2.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\product-2.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/review-1.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\review-1.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/review-2.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\review-2.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/review-3.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\review-3.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/audio/audio1.mp3
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\audio\audio1.mp3
+Content Type: audio/mpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/audio/audio2.mp3
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\audio\audio2.mp3
+Content Type: audio/mpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/audio/audio3.mp3
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\audio\audio3.mp3
+Content Type: audio/mpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/video/0e860fbfde37b6f064b115581a1724f91555583425.mp4
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\video\0e860fbfde37b6f064b115581a1724f91555583425.mp4
+Content Type: video/mp4
+
+Uri: https://medprosvita.online/lp/pantomax/a/video/a6637350a60ca08bffd5e72f8fda3fb21555583435.mp4
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\video\a6637350a60ca08bffd5e72f8fda3fb21555583435.mp4
+Content Type: video/mp4
+
+Uri: https://medprosvita.online/lp/pantomax/a/video/5ac675d4a39203ed5a0edbf0624da4e51555583443.mp4
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\video\5ac675d4a39203ed5a0edbf0624da4e51555583443.mp4
+Content Type: video/mp4
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/worker-1.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\worker-1.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/worker-2.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\worker-2.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/worker-3.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\worker-3.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/rekv_ua.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\rekv_ua.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/includes/other/jquery-3.4.1.min.js
+File Name: c:\Downloaded Web Sites\medprosvita.online\includes\other\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://medprosvita.online/lp/pantomax/a/js/custom.js
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\js\custom.js
+Content Type: application/javascript
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/header-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\header-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/sprite.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\sprite.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/discount.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\discount.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/shine.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\shine.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/price-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\price-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/answer-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\answer-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/adv-icon-1.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\adv-icon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/adv-icon-2.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\adv-icon-2.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/adv-icon-3.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\adv-icon-3.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/adv-icon-4.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\adv-icon-4.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/adv-icon-5.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\adv-icon-5.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/adv-icon-6.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\adv-icon-6.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/sale-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\sale-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/reviews-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\reviews-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/repeat-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\repeat-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/worker-img-wrap.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\worker-img-wrap.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/pleasure.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\pleasure.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/opinion-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\opinion-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/expert.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\expert.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/bad-product.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\bad-product.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/woman-man-1.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\woman-man-1.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/test-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\test-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/pleasure-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\pleasure-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/nut.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\nut.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/advantages-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\advantages-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/woman-man-2.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\woman-man-2.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/percent.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\percent.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/review-img.jpg
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\review-img.jpg
+Content Type: image/jpeg
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/how-use-bg.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\how-use-bg.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/fraud.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\fraud.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/woman-man-3.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\woman-man-3.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/play.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\play.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/lp/pantomax/a/img/pause.png
+File Name: c:\Downloaded Web Sites\medprosvita.online\lp\pantomax\a\img\pause.png
+Content Type: image/png
+
+Uri: https://medprosvita.online/privacy.css
+File Name: c:\Downloaded Web Sites\medprosvita.online\privacy.css
+Content Type: text/css
+
